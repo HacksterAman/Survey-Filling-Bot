@@ -1,8 +1,8 @@
-# SRM University Feedback Form Escape Bot 🚀💥
+# SRM University Feedback Form Filling Bot
 
 ## Overview
 
-Are you a inocent student trapped in the technological labyrinth known as SRM University? Fear not! This Python bot is your ticket to freedom from the soul-sucking feedback forms that seem to multiply faster than course credits.
+Are you a inocent student trapped in the hell on earth known as SRM University? Fear not! This Python bot is your ticket to freedom from the soul-sucking feedback forms that seem to multiply faster than course credits.
 
 ## Prerequisites
 
